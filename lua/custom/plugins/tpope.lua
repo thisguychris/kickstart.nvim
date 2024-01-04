@@ -1,5 +1,6 @@
 return {
   {
-    'tpope/vim-unimpaired'
+    'tpope/vim-unimpaired',
+    'stevearc/dressing.nvim'
   }
 }
